@@ -22,6 +22,7 @@ DOWNLOAD .zip FILE
 ## IMPORTANT
 - __DO NOT DELETE OR MOVE__ static and templates folder.
 - The templates used here are default templates used in visual studio 2019.
-- This is my first shell script tool, so for any suggestions or advice feel free to reach me [Contact](https://prashanjeet.com)
+- This is my first shell script tool, so feel free to raise issues. Your contributions really matters
+- For any other Queries [Contact](https://prashanjeet.com)
 
 ### _Happy Coding_ :) :heart:
