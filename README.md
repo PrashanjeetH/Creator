@@ -1,5 +1,5 @@
 # Creator
-Create Django template using single line of command.
+Create Django template using single line of command. Don't go through the same thing every time you create a new project, let "Creator" do it for you.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Star this repository](https://img.shields.io/github/stars/PrashanjeetH/Creator?style=social)
@@ -17,6 +17,7 @@ DOWNLOAD .zip FILE
 
 - Goto the Creator directory.
 - Open terminal in the current working directory.
+- Give exe. permission to the file. `chmod +x creator.sh`
 - RUN ``` ./creator.sh -p YOUR_PROJECT_NAME -a YOUR_APP_NAME ```
 
 ## IMPORTANT
