@@ -20,6 +20,9 @@ DOWNLOAD .zip FILE
 - Give exe. permission to the file. `chmod +x creator.sh`
 - RUN ``` ./creator.sh -p YOUR_PROJECT_NAME -a YOUR_APP_NAME ```
 
+- Run the project `python manage.py runserver`
+
+
 ## IMPORTANT
 - __DO NOT DELETE OR MOVE__ static and templates folder.
 - The templates used here are default templates used in visual studio 2019.
