@@ -18,10 +18,16 @@ DOWNLOAD .zip FILE
 - Goto the Creator directory.
 - Open terminal in the current working directory.
 - Give exe. permission to the file. `chmod +x creator.sh`
-- RUN ``` ./creator.sh -p YOUR_PROJECT_NAME -a YOUR_APP_NAME ```
+- RUN ` ./creator.sh -p YOUR_PROJECT_NAME -a YOUR_APP_NAME `
 
 - Run the project `python manage.py runserver`
 
+## Create Superuser for Administrator access
+Django comes with pre-built Administrator panel with hundreds of customized settings. Superuser is the only user to have all the access to CREATE, UPDATE, DELETE users and also to limit the access to other users.
+
+- `python manage.py createsuperuser`
+- Enter superuser username, email, password and hit enter.
+- Goto 127.0.0.1:8000/admin to access the Administrator panel
 
 ## IMPORTANT
 - __DO NOT DELETE OR MOVE__ static and templates folder.
